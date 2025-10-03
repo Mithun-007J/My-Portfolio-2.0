@@ -87,7 +87,7 @@ const About = () => {
                 <i className="fas fa-envelope"></i>
                 Get In Touch
               </a>
-              <a href="/Mithun Jain CV-2.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
+              <a href="Mithun_Jain_CV2-2 clg.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
                 <i className="fas fa-download"></i>
                 Download CV
               </a>
